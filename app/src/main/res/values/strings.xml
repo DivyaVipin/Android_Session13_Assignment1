@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactContentProvider</string>
+    <string name="name">Enter name</string>
+    <string name="phone">Enter phone no</string>
+    <string name="email">Enter email</string>
+    <string name="contact">Add contact</string>
+</resources>
